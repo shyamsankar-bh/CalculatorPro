@@ -1,0 +1,62 @@
+<b>+</b><br>     Addition.
+<br>
+<b>-</b><br>      Subtraction.
+<br>
+<b>*</b><br>       Multiplication.
+<br>
+<b>/</b><br>       Division.
+<br>
+<b>+/-</b><br>     Changes the sign of the input.
+<br>
+<b>.(dot)</b><br   Lets you input decimal value.
+<br>
+       It should be preceded by zero <br>or any other number.
+<br>
+<b>%</b><br>       modulo division.
+<br>
+<b>C</b><br>       Clears the screen.
+<br>
+<b>&lt;-</b><br>   delete the current input.
+<br>
+<b>History</b><br> Lets you see the previous results.
+<br>
+<b>x²</b> <br>Square of a number
+<br>
+<b>10^n</b> <br>Ten power n
+<br>
+<b>x^n</b> <br> x power n
+<br>
+<b>log,ln</b><br>
+ find the logarithmic<br> value
+of a number.<br> preceded
+by a value
+<br>
+<b>sin, cos, tan</b> <br>
+calculate the trigonometric functions
+<br>value preceded by function sin/cos/tan<br>
+<br>sin(x) x converted to radians and displayed and calculated again
+<b>(sinh), (cosh), (cosh)</b><br>
+calculate the hyperbolic
+values <br>of trigonometric<br>
+functions
+<br>
+<b>sin⁻¹, cos⁻¹, tan⁻¹</b> <br>
+inverse trigonometric
+functions
+<br>
+<b>switch</b> <br>change to next
+set of operations
+<br>
+<b>x!</b> <br>factorial of a number<br>
+<b>1/x</b> <br> one divided by x
+<br>
+<b>Degree</b><br> show value in
+degree format<br>
+
+<b>Radian</b><br> show value in
+radian format<br>
+
+<b>π</b> value is 3.14
+<br>
+<b>square root</b> finds the
+root of <br>the number<br>

@@ -1,0 +1,21 @@
++<br>     Addition.
+<br>
+-<br>      Subtraction.
+<br>
+*<br>       Multiplication.
+<br>
+/<br>       Division.
+<br>
++/-<br>     Changes the sign of the input.
+<br>
+.<br>       Lets you input decimal value.
+<br>
+       It should be preceded by zero <br>or any other number.
+<br>
+%<br>       modulo division.
+<br>
+C<br>       Clears the screen.
+<br>
+&lt;-<br>   delete the current input.
+<br>
+<b>History</b><br> Lets you see the previous results.

@@ -1,0 +1,33 @@
+
+<b>+</b><br>     Addition.
+<br>
+<b>-</b><br>      Subtraction.
+<br>
+<b>*</b><br>       Multiplication.
+<br>
+<b>/</b><br>       Division.
+<br>
+<b>+/-</b><br>     Changes the sign of the input.
+<br>
+<b>.(dot)</b><br   Lets you input decimal value.
+<br>
+       It should be preceded by zero <br>or any other number.
+<br>
+<b>%</b><br>       modulo division.
+<br>
+<b>C</b><br>       Clears the screen.
+<br>
+<b>&lt;-</b><br>   delete the current input.
+<br>
+<b>History</b><br> Lets you see the previous results.
+<br>
+<b>x²</b> <br>Square of a number
+<br>
+<b>x^n</b> <br> x power n <br>
+
+<b>Space</b><br> used to give space between<br>
+ two numbers or operations<br>
+<b>Note</b>:<br> Here input the number<br>
+ first followed by a space<br>
+ then another number then <br>
+ any number or expression <br>
